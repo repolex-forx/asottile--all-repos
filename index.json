@@ -1,0 +1,11 @@
+{
+  "org": "asottile",
+  "repo": "all-repos",
+  "versions": [
+    {
+      "commit": "cef3a75a19590e8c23fc088a0bfc81ac0350cacf",
+      "tag": "",
+      "parsed_at": "2026-10-20T11:32:53.711215+00:00"
+    }
+  ]
+}
